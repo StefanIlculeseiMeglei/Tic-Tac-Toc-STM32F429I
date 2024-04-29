@@ -1,4 +1,5 @@
-# STM32F429I_DISCO_REV_E01 TBS
+# TIC TAC TOE
+This project is the game Tic-Tac-Toe made to be played on a STM32F429I's LCD. For this project i have worked on Keil, STM32CubeIDE and TouchGFX Designer. The game can be played against another human or against the microcontroller.
 
 The default IDE is set to STM32CubeIDE, to change IDE open the STM32F429I_DISCO_REV_E01.ioc with CubeMX and select from the supported IDEs (EWARM from version 8.50.9, MDK-ARM, and STM32CubeIDE). Supports flashing of the STM32F429I_DISCO_REV_E01 board directly from TouchGFX Designer using GCC and STM32CubeProgrammer. Flashing the board requires STM32CubeProgrammer which can be downloaded from the ST webpage. 
 

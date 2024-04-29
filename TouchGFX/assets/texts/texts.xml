@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.23.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_9S98" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">T</Translation>
+      </Text>
+      <Text Id="__SingleUse_1BVX" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">T</Translation>
+      </Text>
+      <Text Id="__SingleUse_QZHO" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">T</Translation>
+      </Text>
+      <Text Id="__SingleUse_VQPN" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">T</Translation>
+      </Text>
+      <Text Id="__SingleUse_1QZV" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">T</Translation>
+      </Text>
+      <Text Id="__SingleUse_VRIV" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">T</Translation>
+      </Text>
+      <Text Id="__SingleUse_BRYZ" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">T</Translation>
+      </Text>
+      <Text Id="__SingleUse_UOW1" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">T</Translation>
+      </Text>
+      <Text Id="__SingleUse_LUW3" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">T</Translation>
+      </Text>
+      <Text Id="__SingleUse_NC58" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Game</Translation>
+      </Text>
+      <Text Id="__SingleUse_TZXU" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Reset</Translation>
+      </Text>
+      <Text Id="__SingleUse_BO8D" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Back</Translation>
+      </Text>
+      <Text Id="__SingleUse_FSYP" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Microcontroler</Translation>
+      </Text>
+      <Text Id="__SingleUse_173Q" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Player</Translation>
+      </Text>
+      <Text Id="__SingleUse_2S2I" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Ilculesei-Meglei&#10;Ștefan&#10;Grupa:3131a</Translation>
+      </Text>
+      <Text Id="__SingleUse_4YDM" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">X și 0</Translation>
+      </Text>
+      <Text Id="__SingleUse_HDKI" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Start</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>
